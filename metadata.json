@@ -1,0 +1,6 @@
+{
+  "name": "Bihar BTSC Mutual Transfer Portal",
+  "description": "Bihar Health Department & BTSC Staff Nurse Mutual Transfer Portal - Match by home district, explore mutual swap pairs and 3-way chains, send swap requests, and generate official transfer NOC applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
